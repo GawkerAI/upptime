@@ -11,7 +11,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.gawker.ai
   baseUrl: /
-  logoUrl: /assets/icon.svg
+  logoUrl: https://gawker.ai/img/icon.svg
   name: Gawker.ai | Uptime
   introTitle: "Check real-time status for **Gawker.ai**"
   introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/GawkerAI/upptime).
