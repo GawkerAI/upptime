@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 226,
-    "timeDay": 226,
-    "timeWeek": 226,
-    "timeMonth": 226,
-    "timeYear": 226,
+    "time": 210,
+    "timeDay": 210,
+    "timeWeek": 210,
+    "timeMonth": 210,
+    "timeYear": 210,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.gawker.ai.ico",
     "slug": "gawker-ai-application",
     "status": "down",
-    "uptime": "1.20%",
-    "uptimeDay": "1.20%",
-    "uptimeWeek": "1.20%",
-    "uptimeMonth": "1.20%",
-    "uptimeYear": "1.20%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-24": 0
+      "2024-12-24": 29
     }
   }
 ]
